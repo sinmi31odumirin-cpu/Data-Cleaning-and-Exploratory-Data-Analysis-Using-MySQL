@@ -1,2 +1,2 @@
-# sql-data-cleaning-and-Exploratory data analysis
-Data cleaning and management project involving the importation of raw Excel data into MySQL for inspection, validation and transformation. Tasks included identifying missing values, removing duplicates, correcting inconsistencies and standardizing records to ensure data accuracy and proper organization.
+# sql-data-cleaning-and-Exploratory-data-analysis
+An end-to-end data preparation and exploration project involving the importation of raw Excel data into MySQL, data cleaning, validation, handling missing values and duplicates, correcting inconsistencies, and conducting exploratory data analysis to uncover meaningful insights.
