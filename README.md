@@ -12,6 +12,7 @@ This project focuses on data cleaning, preparation and exploratory data analysis
 
 # Tools Used
 Microsoft Excel – Initial dataset handling and data inspection.
+
 MySQL – Data cleaning, transformation, validation and exploratory analysis.
 
 
