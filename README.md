@@ -43,9 +43,10 @@ MySQL – Data cleaning, transformation, validation and exploratory analysis.
 
 
 ## Repository Structure
+- Images/ – Screenshots documenting the project workflow and results.
 - Dataset/ – Original and cleaned datasets.
 - SQL/ – SQL scripts for data cleaning and exploratory analysis.
-- Images/ – Screenshots documenting the project workflow and results.
+
 
 
 
